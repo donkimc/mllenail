@@ -1,4 +1,0 @@
-{
-    "root": "dist/",
-    "canonical_host": "${HOST}"
-}
